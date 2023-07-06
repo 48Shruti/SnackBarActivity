@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SnackBarActivity</string>
+    <string name="Email">Enter your Email Address </string>
+    <string name="Details">DETAILS</string>
+    <string name="Eemail">e.e : abc@gmail.com</string>
+    <string name="mobile">Enter your Mobile number</string>
+    <string name="EmailText">abc@gmail.com</string>
+    <string name="mobileText">e.g :1234567890</string>
+</resources>
