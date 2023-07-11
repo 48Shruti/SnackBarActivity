@@ -6,4 +6,8 @@
     <string name="mobile">Enter your Mobile number</string>
     <string name="EmailText">abc@gmail.com</string>
     <string name="mobileText">e.g :1234567890</string>
+    <string name="alert">Alert</string>
+    <string name="next">Next</string>
+    <string name="zero">0</string>
+    <string name="mul">Multiple Alert</string>
 </resources>
